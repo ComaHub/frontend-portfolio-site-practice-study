@@ -150,4 +150,4 @@ menuItems.forEach((menuItem) => {
   menuItem.addEventListener("click", () => {
     navEl.classList.remove("active");
   })
-})
+});
